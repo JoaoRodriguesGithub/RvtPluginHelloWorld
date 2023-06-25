@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3494F9ED-3235-4A26-BBD8-EC5B6136A2D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RvtPluginHelloWorld", "src\RvtPluginHelloWorld\RvtPluginHelloWorld.csproj", "{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B47FE8A3-FCEA-4F5A-89EA-6EF6EB34C759} = {3494F9ED-3235-4A26-BBD8-EC5B6136A2D5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBB0645-EFC9-4ACC-AD4B-9C97704D8E26}
+	EndGlobalSection
+EndGlobal
