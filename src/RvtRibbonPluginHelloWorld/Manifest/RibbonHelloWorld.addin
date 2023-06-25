@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<!-- Specify dll path here -->
+		<Assembly>path</Assembly>
+		<!-- Specify dll path here -->
+		<AddInId>604b1052-f742-4951-8576-c261d1993108</AddInId>
+		<FullClassName>Walkthrough.CsAddPanel</FullClassName>
+		<Name>Hello World</Name>
+		<VendorId>JR</VendorId>
+		<VendorDescription>JR BIM Consultant</VendorDescription>
+	</AddIn>
+</RevitAddIns>

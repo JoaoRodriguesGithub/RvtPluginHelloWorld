@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
  <RevitAddIns>
          <AddIn Type="Command">
-                 <Assembly>C:\Users\JR\Documents\Work\WebDev\00.Sandbox\RvtPluginHelloWorld\src\RvtPluginHelloWorld\bin\Debug\net6.0\RvtPluginHelloWorld.dll</Assembly>
+         <!-- Specify dll path here -->
+                 <Assembly>path</Assembly>
+         <!-- Specify dll path here -->
                  <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
                  <FullClassName>RvtPluginHelloWorld.HelloWorld</FullClassName>
                  <Text>HelloWorld</Text> 
