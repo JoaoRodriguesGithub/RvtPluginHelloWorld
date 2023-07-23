@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+       <Name>Lab1PlaceGroup</Name>
+       <FullClassName>Lab1PlaceGroup.FirstPlugin</FullClassName>
+       <Text>Lab1PlaceGroup</Text>
+       <Description>Places the Group at Particular Point</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+	   <!-- Specify dll path here \bin\Debug\filename.dll -->
+	   <Assembly>C:\Users\JR\Documents\Work\WebDev\00.Sandbox\RvtPluginHelloWorld\src\Lab1PlaceGroup\bin\Debug\Lab1placeGroup.dll</Assembly>
+	   <!-- Specify dll path here \bin\Debug\filename.dll -->
+       <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>
